@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "maps-api-google-example",
+    "slug": "maps-api-google-example",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
